@@ -39,7 +39,13 @@ Para utilizar un if se utiliza un si es como el equivalente.
 ```
 
 
+## TRIM de Excel
 
+Para quitar todos los espacios
+
+```
+=espacios(rango)
+```
 
 
 
