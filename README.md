@@ -47,11 +47,18 @@ Para quitar todos los espacios
 =espacios(rango)
 ```
 
+## Escribir literales
+
+por ejemplo si quieres escribir =1+2 entonces pues pon '=1+2
+
+```
+si pones el '1 lo trataria como texto y no numero
+```
 
 
-
-
-
+## COncatena
+ 
+El  & se utiliza para concatenar sin usar formulas
 
 
 
