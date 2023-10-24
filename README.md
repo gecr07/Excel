@@ -56,13 +56,20 @@ si pones el '1 lo trataria como texto y no numero
 ```
 
 
-## COncatena
+## Concatena
  
 El  & se utiliza para concatenar sin usar formulas
 
 
+## Referencias estructuradas tablas
 
+Para hace esto:
 
+```
+=suma(ventas[columna])
+```
+
+Ahora suma todo
 
 
 
