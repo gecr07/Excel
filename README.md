@@ -71,7 +71,14 @@ Para hace esto:
 
 Ahora suma todo
 
+## Shotcuts
 
+Para agregar filas
+
+```
+CTRL + +  # Permite instertar filas de manera rapida
+CTRL + t # Para crear una tabla
+```
 
 
 
