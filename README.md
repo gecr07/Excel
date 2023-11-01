@@ -80,9 +80,28 @@ CTRL + +  # Permite instertar filas de manera rapida
 CTRL + t # Para crear una tabla
 ```
 
+## Absoluto Relativos 
+
+NOTA si no se usan estos conceptos Excel no sabe de donde sacar datos y va a empezar a decir que no encontro los datos y poenr NA###
+
+![image](https://github.com/gecr07/Excel/assets/63270579/07402f20-89ce-40c9-b180-5eeaaf038dd3)
+
+NO puedes no entender esto es un powerup.
+
+
 ## Explicacion Absoluto - Absoluto ( nunca cambia)
 
+![image](https://github.com/gecr07/Excel/assets/63270579/14ea94ff-bc79-4c8d-b859-64f386b0562e)
 
+Si nos damos cuenta la celda AG3 esta asi
+
+
+```
+AG3
+la celda esta:
+$AG3
+Osea absoluto absoluto nunca cambiara.
+```
 
 
 ## Explicacion grafica Absoluto relativo
@@ -91,9 +110,10 @@ Tenemos esta tabla (nombre tabla)
 
 ![image](https://github.com/gecr07/Excel/assets/63270579/30e6eee0-5d50-48d4-81e2-6cd04fe47acb)
 
-Despues vamos a hacer una formula que busque dentro de esa tabla.
+Despues vamos a hacer una formula que busque dentro de esa tabla. ( absoluto osea poniendole el$ - relativo ¿no poniendo nada? ) que siempre se refiera a la primea celda de cada fila
 
 ![image](https://github.com/gecr07/Excel/assets/63270579/1d4bec40-bc15-42d7-b39a-5754703f05e7)
+
 
 
 
