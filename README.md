@@ -80,6 +80,20 @@ CTRL + +  # Permite instertar filas de manera rapida
 CTRL + t # Para crear una tabla
 ```
 
+## Explicacion Absoluto - Absoluto ( nunca cambia)
+
+
+
+
+## Explicacion grafica Absoluto relativo
+
+Tenemos esta tabla (nombre tabla)
+
+![image](https://github.com/gecr07/Excel/assets/63270579/30e6eee0-5d50-48d4-81e2-6cd04fe47acb)
+
+Despues vamos a hacer una formula que busque dentro de esa tabla.
+
+![image](https://github.com/gecr07/Excel/assets/63270579/1d4bec40-bc15-42d7-b39a-5754703f05e7)
 
 
 
