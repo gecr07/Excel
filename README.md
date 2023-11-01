@@ -114,6 +114,18 @@ Despues vamos a hacer una formula que busque dentro de esa tabla. ( absoluto ose
 
 ![image](https://github.com/gecr07/Excel/assets/63270579/1d4bec40-bc15-42d7-b39a-5754703f05e7)
 
+Quedaria asi 
+
+![image](https://github.com/gecr07/Excel/assets/63270579/ace19012-84c1-4c08-89e2-86847abda611)
+
+En resumen: ( Absoluto - Relativo ) Para que saque la informacion de Filas
 
 
+## Explicacion Relativo absoluto
+
+
+![image](https://github.com/gecr07/Excel/assets/63270579/db2ed5df-bc15-47b3-ba85-cb63c89ef0bf)
+
+
+(Relativo- Absoluto) Para que saque la informacion de columnas  Queremos asegurarnos que la informacion siempre este en la primera fila de cada columna. Y ahora si da los valores correctos.
 
