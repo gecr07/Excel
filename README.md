@@ -129,3 +129,70 @@ En resumen: ( Absoluto - Relativo ) Para que saque la informacion de Filas
 
 (Relativo- Absoluto) Para que saque la informacion de columnas  Queremos asegurarnos que la informacion siempre este en la primera fila de cada columna. Y ahora si da los valores correctos.
 
+## Objetos, metodos y propiedades
+
+En excel todo son metodos y en VBA los iconos son verdes los iconos grises son propiedades.
+
+![image](https://github.com/gecr07/Excel/assets/63270579/1702db51-353c-4b8d-aad4-ad9ac949fccf)
+
+
+## Jerarquias
+
+Excel -> Hoja -> Celda si no se especifica libro y hoja excel por defecto trabaja con el libro y hoja actual.
+
+```
+# Para seleccionar unas celdas
+Range("A5").Select
+
+Workbooks("Libro1.xlsx").Sheets("Hoja2").Range("A5")
+```
+
+## Variables 
+
+Ya no uses Dim solo pues declaralas asi
+
+```
+Mivaribale=Range("A5").Value
+
+```
+
+
+## Copiar y Pegar
+
+
+Se copia con formato a diferencia del Value copia con formato. no copia al porta papeles.
+
+## Argumentos de los metodos
+
+Se usa el := se pasan asi y , para un parametro nuevo.
+
+```
+Workbooks.Open Filename:="C:\Users\Fede\Escritorio\Libro1.xlsx", ReadOnly:=True
+```
+
+## Paso por valor 
+
+```
+Sub uno ()
+
+Dim var1 as string
+var1 = "test"
+dos(var1)
+End Sub
+
+
+Sub dos(var1)
+
+var1 vale test1
+
+End Sub
+```
+
+
+
+
+
+
+
+
+
